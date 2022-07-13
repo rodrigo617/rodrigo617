@@ -1,5 +1,6 @@
-### Hi there 👋
-### My name is Rodrigo Lopez
+### 👋 Hi there, my name is Rodrigo Lopez
+I'm frontend developer and Electromechanical Engineer
+
 
 <!--
 **rodrigo617/rodrigo617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
