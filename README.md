@@ -1,5 +1,5 @@
 ### 👋 Hi there, my name is Rodrigo Lopez
-I'm frontend developer and Electromechanical Engineer
+🌱 I’m currently learning MERN
 
 
 <!--
