@@ -1,5 +1,5 @@
 ### 👋 Hi there, my name is Rodrigo Lopez
-🌱 I’m currently learning MERN
+🌱 I’m learning about blockchain. SOLIDITY
 
 
 <!--
